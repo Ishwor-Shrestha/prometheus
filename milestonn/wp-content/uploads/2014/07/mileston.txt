@@ -1,0 +1,14 @@
+increase height and width of header
+edit links for Universities in footer
+change background color
+fonts - change, clearly visible, soothing color
+login panel for ftp
+use flags as background for header
+contact details - change it
+
+add picture in MESSAGE FROM CHAIRMAN in index page.
+add google map in contact us.
+add specific maps.
+add pictures in every articles
+add news and events contents - add links to news and events(ecan)
+australian hi commision (www.immi.gov.au)

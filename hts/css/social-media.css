@@ -1,0 +1,49 @@
+.social-slide {
+	
+	height: 48px;
+	width: 48px;
+	margin: 10px;
+	float: left;
+	border-radius: 50%;
+	-webkit-transition: all ease 0.3s;
+	-moz-transition: all ease 0.3s;
+	-o-transition: all ease 0.3s;
+	-ms-transition: all ease 0.3s;
+	transition: all ease 0.3s;
+}
+.social-slide:hover {
+	
+	box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+	-webkit-transform:rotate(360deg);
+	-moz-transform:rotate(360deg);
+	-o-transform:rotate(360deg);
+	-ms-transform:rotate(360deg);
+	transform:rotate(360deg);
+}
+.fb{
+	background: url('../images/1fb.png');
+}
+.fb:hover{
+	background: url('../images/fb.png');
+}
+
+.gog{
+	background: url('../images/1google+.png');
+}
+.gog:hover{
+	background: url('../images/google+.png');
+}
+
+.twitter{
+	background: url('../images/1tweet.png');
+}
+.twitter:hover{
+	background: url('../images/tweet.png');
+}
+
+.rss{
+	background: url('../images/1rss.png');
+}
+.rss:hover{
+	background: url('../images/rss.png');
+}
